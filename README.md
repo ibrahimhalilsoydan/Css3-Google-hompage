@@ -1,2 +1,2 @@
 # Css3-Google-hompage
-##https://academy.patika.dev/tr
+https://academy.patika.dev/tr
